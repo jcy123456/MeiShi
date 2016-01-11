@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Seaech</string>
+    <string name="search">搜索</string>
+    <string name="importSearch">请输入名称搜索</string>
+    <string name="collect">收藏</string>
+    <string name="belowHint">赶紧登录，开始你的美味体验吧！</string>
+    <string name="register">注册</string>
+    <string name="enter">登录</string>
+</resources>
